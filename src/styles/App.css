@@ -1,16 +1,16 @@
-#heading {
+h1 {
+  color: #27aedb;
   text-align: center;
-  color: #25afd9;
-  font-size: 3rem;
 }
 
-#calender {
-  margin: 0.5rem 0;
-  padding: 0.5rem 0;
-  border-top: 2px solid #cacaca;
-  border-bottom: 2px solid #cacaca;
-}
 
 button {
-  color: #25afd9;
+  color: #27aedb;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+table td {
+  padding: 5px;
 }
